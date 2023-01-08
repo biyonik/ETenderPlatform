@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  sourcingdb:
+    image: 'mongo'
+    
+  etenderplatform.productapi:
+    image: ${DOCKER-REGISTRY-}etenderproductapi
+    build:
+      context: _
+      dockerfile: ETenderPlatform.ProductApi/Dockerfile

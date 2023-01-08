@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OAP3oI5TR9ws0LomxFclGXT7EirpNNsYu8JmBvhYTZk=",
+  "Source": "ETenderPlatform.ProductApi",
+  "BasePath": "_content/ETenderPlatform.ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
